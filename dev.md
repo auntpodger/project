@@ -1,3 +1,3 @@
 # Privet
 
-Somthing is updated
+Something is updated
